@@ -3,3 +3,6 @@ This Google Chrome Extension show title, bullets, description/EBC, Branding sect
 
 # Google's Chrome Web Store
 The latest extension is live on Google's Chrome Web Store https://chromewebstore.google.com/detail/amazon-pdp-finder/jepnkidgibnkpkipjcjjbnpganihacjl?hl=en-GB&authuser=0. You can search by its name "Amazon PDP Finder".
+
+# Developer
+I am Ahmed Shaikh Memon, you can connect with me over https://www.linkedin.com/in/ahmedshaikhm
