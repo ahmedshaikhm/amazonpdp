@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Amazon PDP Scraper</title>
+  <style>
+    textarea {
+      width: 500px;
+      height: 100px;
+      margin-bottom: 10px;
+    }
+    button {
+      width: 100%;
+      padding: 10px;
+      background-color: #007bff;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #0056b3;
+    }
+  </style>
+</head>
+<body>
+  <h1>Amazon PDP - Finder</h1>
+  Follow <a href="https://www.linkedin.com/in/ahmedshaikhm" target="_blank">Ahmed Shaikh Memon on Linkedin</a><br><br>
+  <button id="scrape">Find</button><br><br>
+  Title:
+  <textarea id="title" placeholder="Title" rows="3" style="height:100%;"></textarea>
+  Bullet Points:
+  <textarea id="bullet-points" placeholder="Bullet Points"></textarea>
+  Description/EBC:
+  <textarea id="description" placeholder="Description/EBC"></textarea>
+  From Branding Section:
+  <textarea id="branding" placeholder="Branding"></textarea>
+  
+  <script src="popup.js"></script>
+</body>
+</html>
